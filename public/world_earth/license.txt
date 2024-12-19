@@ -1,0 +1,11 @@
+Model Information:
+* title:	World Earth
+* source:	https://sketchfab.com/3d-models/world-earth-ad2a476b2a1d4d39b0f29191b625d777
+* author:	SoliBa08 (https://sketchfab.com/SoliBa08)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "World Earth" (https://sketchfab.com/3d-models/world-earth-ad2a476b2a1d4d39b0f29191b625d777) by SoliBa08 (https://sketchfab.com/SoliBa08) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

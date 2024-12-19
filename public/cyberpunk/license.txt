@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free HDRi Cyberpunk cloudy space
+* source:	https://sketchfab.com/3d-models/free-hdri-cyberpunk-cloudy-space-abea2fb2df7447ce81e999bba2f4f824
+* author:	bakmosta3 (https://sketchfab.com/bakmosta3)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free HDRi Cyberpunk cloudy space" (https://sketchfab.com/3d-models/free-hdri-cyberpunk-cloudy-space-abea2fb2df7447ce81e999bba2f4f824) by bakmosta3 (https://sketchfab.com/bakmosta3) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
